@@ -7,7 +7,7 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['+947######', 'Cyber PabuZa', false],
+  ['94742678276', '*•.¸♡ ＳＡＤＵＰＡ ＭＤ ＷＰ ＢＯＴ ♡¸.•*', false],
   [''],
   [''] 
 ] //Number of owners
@@ -47,7 +47,7 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'C-ZADUPA'
+global.botname = '*•.¸♡ ＳＡＤＵＰＡ ＭＤ ＷＰ ＢＯＴ ♡¸.•*'
 global.premium = 'false'
 global.packname = '𝙰𝙱𝙷𝙸𝚂𝙷𝙴𝙺-𝚂𝙴𝚁🎯𝙰𝙱𝙷𝙸𝚂𝙷𝙴𝙺-𝚂𝚄𝚁𝙴𝚂𝙷☘️Cyber PabuZa' 
 global.author = 'chamaka sadupa' 
